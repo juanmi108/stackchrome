@@ -1,0 +1,23 @@
+{
+    "name": "Google to Stackoverflow",
+    "version": "0.0.1",
+    "description": "Create a stackoverflow question from a Google search",
+    "permissions": [
+        "tabs",
+        "scripting"
+    ],
+    "host_permissions": [
+        "http://*/",
+        "https://*/"
+    ],
+    "action": {
+        "default_popup": "popups/default.html",
+        "default_title": "__MSG_action_icon_title__"
+    },
+    "icons": {
+        "64": "icons/stack-overflow-64.png"
+    },
+    "manifest_version": 3,
+    "minimum_chrome_version": "92",
+    "default_locale": "en"
+}

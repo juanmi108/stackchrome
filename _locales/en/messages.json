@@ -1,0 +1,8 @@
+{
+    "error_bad_location": {
+        "message": "Can not create a question from this page... yet ;)"
+    },
+    "action_icon_title": {
+        "message": "Click to create a public question"
+    }
+}
