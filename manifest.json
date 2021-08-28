@@ -1,7 +1,7 @@
 {
-    "name": "Google to Stackoverflow",
+    "name": "Stackoverflow Ask",
     "version": "0.0.2",
-    "description": "Create a stackoverflow public question from many search-engines like Goole, Bing, Duckduckgo, Ecosia...",
+    "description": "__MSG_extDescription__",
     "permissions": [
         "tabs",
         "scripting"

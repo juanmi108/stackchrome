@@ -4,5 +4,8 @@
     },
     "action_icon_title": {
         "message": "Click to create a public question"
+    },
+    "extDescription": {
+        "message": "Stackoverflow Ask is a shortcut to quickly create a question from the page of any search-engines like google, bing, duckduckgo..."
     }
 }
