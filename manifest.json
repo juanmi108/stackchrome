@@ -1,7 +1,7 @@
 {
     "name": "Google to Stackoverflow",
-    "version": "0.0.1",
-    "description": "Create a stackoverflow question from a Google search",
+    "version": "0.0.2",
+    "description": "Create a stackoverflow public question from many search-engines like Goole, Bing, Duckduckgo, Ecosia...",
     "permissions": [
         "tabs",
         "scripting"
